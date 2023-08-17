@@ -13,7 +13,7 @@
 </p>
 🌱 Actualmente estoy aprendiendo Klotin, Rust, Vue, Vite y Godo
 
-- 🤝 to look for help [Dudas de Programación Discord](https://discord.com/)
+- 🤝 Proyectos Publicos para que los uses a tu gusto
 
 - 💬 Mejorando dia a dia
 
@@ -22,12 +22,12 @@
 
 
 ```js
-const nicks = {
-  Twitter: 'Tecnopolispasto',
-  Facebook: 'noc.gpi',
-  Blog: ['Elementos Para Aprender Inteligencia Artificial'],
-  Discord: 'finalgame.',
-  NameUsers: ['satara','tecnopolis','true++']
+const Tastes = {
+  Sports: [Basketball, Soccer, Boxing],
+  Facebook: null,
+  Music: ['Zoe'],
+  Discord: null,
+  NameUsers: ['FLash Dev','Aztlan']
   }
 }
 ```
