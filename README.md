@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
 
-![github](https://github.com/satara2358/satara2358/assets/25549072/19c3ef8b-15a1-49b1-a003-3d44854a981e)
+![github](https://i.postimg.cc/dVjfpDQq/Banner.png)
 
 <h3 align="center">El futuro es hoy viejo.</h3>
 
@@ -17,10 +17,8 @@
 
 - 💬 Mejorando dia a dia
 
-- 📫 Cómo contactarme **tatenokay@gmail.com**
+- 📫 Cómo contactarme **flashdev.13@gmail.com**
 -- **[linkedin](https://www.linkedin.com/in/daniel-g13/)**
-- **[BLOG-Elementos Para Aprender Inteligencia Artificial](https://inteligenciaartificialtec.club.hotmart.com/login)**
-- **[Discord](https://discord.com/channels/@finalgame)**
 
 
 ```js
