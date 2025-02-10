@@ -11,7 +11,7 @@
     <img src="https://pbs.twimg.com/profile_images/1019710199291146240/yt7n8OBy_400x400.jpg" width="48px" height="48px" alt="tecnopolispasto" /> 
   </a> 
 </p>
-🌱 Actualmente estoy aprendiendo Klotin, Rust, Vue, Vite y Godo
+🌱 Actualmente estoy aprendiendo Nest, Go, 
 
 - 🤝 Proyectos Publicos para que los uses a tu gusto
 
